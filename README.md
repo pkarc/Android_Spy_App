@@ -1,5 +1,5 @@
 # Android_Spy_App
-This is a android spy app, which uploads user data such as contacts, messages, call log, send message(s), photos, videos, open a browser link etc. Tutorial for the app will be found <a href="https://students.iitj.ac.in/blog/2018/04/29/android-spy-app-with-socket-io-and-node-js/">here</a>.
+This is a android spy app, which uploads user data such as contacts, messages, call log, send message(s), photos, videos, open a browser link etc. Tutorial for the app will be found <a href="https://students.iitj.ac.in/blog/2018/04/29/android-spy-app-with-socket-io-and-node-js/" target="_blank">here</a>.
  
 
 ## Specifications
